@@ -57,13 +57,13 @@ h1 {
 .number:hover {
     background-color: #cc0c0c;
     font-size: 30px;
-    color: crimsom;
+    color: crimson;
 }
 
 .decimal:hover {
     background-color: #cc0c0c;
     font-size: 30px;
-    color: crimsom;
+    color: crimson;
 }
 
 .operator:hover {
